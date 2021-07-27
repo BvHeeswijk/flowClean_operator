@@ -1,6 +1,6 @@
 {
-  "name": "flowClean",
-  "description": "Quality control for flowcytometry data",
+  "name": "FlowClean",
+  "description": "Flow Cytometry Cleaning: A quality control tool for fluorescence anomalies in flow cytometry data. Based on compositional data analysis.",
   "tags": ["flowcytometry"],
   "authors": ["tercen"],
   "urls": ["https://github.com/tercen/template_R_operator"],
